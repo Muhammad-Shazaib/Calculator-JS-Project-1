@@ -1,0 +1,1 @@
+# smit-1st.js-assignment
